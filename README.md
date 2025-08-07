@@ -2,12 +2,10 @@
 
 ---
 ## 📄 Project Description: Library Management System (OOP in Java)
-This is a simple Library Management System developed using Object-Oriented Programming (OOP) in Java. The project simulates the basic functionalities of a library, such as:
-
-Storing book records
-Managing users
-Issuing and returning books
-
+This is a simple Library Management System developed using Object-Oriented Programming (OOP) in Java. The project simulates the basic functionalities of a library, such as:   
+Storing book records   
+Managing users   
+Issuing and returning books   
 It is a console-based (CLI) application built for a Java Developer Internship task to demonstrate understanding of OOP concepts like Abstraction, Encapsulation, and Polymorphism.
 
 ---
@@ -20,25 +18,25 @@ Displaying current library status
 
 ---
 
-## 🧠 Key OOP Concepts Used
-Abstraction: Defined classes (Book, User, Library) that model real-world entities.
-Encapsulation: All data is kept private inside classes and accessed through public methods.
+## 🧠 Key OOP Concepts Used   
+Abstraction: Defined classes (Book, User, Library) that model real-world entities.   
+Encapsulation: All data is kept private inside classes and accessed through public methods.   
 Polymorphism: (Optional: Can be extended using method overriding or interfaces.)
 
 ---
 
-## 🛠 Tools & Technologies
-Java (JDK)
-VS Code
+## 🛠 Tools & Technologies   
+Java (JDK)   
+VS Code   
 Terminal (Command Line Interface)
 
 ---
 ## 🗂 Project Structure
 
-LibraryManagement/
-├── Book.java
-├── User.java
-├── Library.java
+LibraryManagement/   
+├── Book.java   
+├── User.java   
+├── Library.java   
 └── Main.java
 
 ---
@@ -54,20 +52,20 @@ LibraryManagement/
 
 ---
 ## 📌 Outcome
-By completing this project, I have gained a solid understanding of:
-Designing and implementing OOP systems in Java
-Using multiple classes and managing data interaction
+By completing this project, I have gained a solid understanding of:   
+Designing and implementing OOP systems in Java   
+Using multiple classes and managing data interaction   
 Writing reusable and modular Java code
 
 ---
 ## 📅 Internship Task Details
-Day: 3
-Task: Build a Library Management System using OOP in Java
+Day: 3   
+Task: Build a Library Management System using OOP in Java   
 Repository Link: https://github.com/GorrelaChandraShekhar/Library-Management-System.git
 
 ---
 ## 🧑‍💻 Author
-Name: Chandhu
+Name: Chandhu   
 Role: Java Developer Intern
 
 
