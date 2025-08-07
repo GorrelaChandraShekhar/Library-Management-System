@@ -13,9 +13,9 @@ It is a console-based (CLI) application built for a Java Developer Internship ta
 ---
 
 ## 🎯 Objective
-To build a multi-class Java project that allows:
-Easy management of books and users
-Issuing and returning of books
+To build a multi-class Java project that allows:   
+Easy management of books and users   
+Issuing and returning of books   
 Displaying current library status
 
 ---
