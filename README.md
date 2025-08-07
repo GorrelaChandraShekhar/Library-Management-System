@@ -63,7 +63,7 @@ Writing reusable and modular Java code
 ## 📅 Internship Task Details
 Day: 3
 Task: Build a Library Management System using OOP in Java
-Submission: [GitHub Repository Link]
+Repository Link: https://github.com/GorrelaChandraShekhar/Library-Management-System.git
 
 ---
 ## 🧑‍💻 Author
